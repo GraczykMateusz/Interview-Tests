@@ -1,5 +1,7 @@
 #include <vector>
 
+#include "solution.h"
+
 using std::vector;
 
 vector<int> solution(vector<int> &A, int K) {

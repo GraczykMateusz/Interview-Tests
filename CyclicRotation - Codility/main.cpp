@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 
-#include "solution.cpp"
+#include "solution.h"
 
 using std::cin;
 using std::cout;
