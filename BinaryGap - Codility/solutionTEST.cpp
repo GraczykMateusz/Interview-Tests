@@ -1,7 +1,7 @@
 #define BOOST_TEST_DYN_LINK
 #define BOOST_TEST_MODULE solutionTEST
 #include <boost/test/unit_test.hpp>
-#include "solution.cpp"
+#include "solution.h"
 
 BOOST_AUTO_TEST_SUITE ( checkSolution )
 BOOST_AUTO_TEST_CASE( for1 ) {

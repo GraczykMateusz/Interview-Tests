@@ -1,3 +1,5 @@
+#include <vector>
+
 int solution(int N) {
         int binaryGapLenght = 0, tempBinaryGapLenght = 0;
         std::vector<int> binaryN;

@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 
-#include "solution.cpp"
+#include "solution.h"
 
 int loadNumber() {
 	unsigned int number;
