@@ -1,6 +1,6 @@
 #include <iostream>
 #include <boost/variant/variant.hpp>
-//g++ -o main.cpp -lboost_unit_test_framework
+//g++ main.cpp -lboost_unit_test_framework
 
 template<typename T, typename Y>
 boost::variant<T, Y> find_min(T a, Y b) {
